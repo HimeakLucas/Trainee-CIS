@@ -1,3 +1,1 @@
-# Trainee-CIS
-# Trainee-CIS
-# Trainee-CIS
+Este repositório contém notebooks desenvolvidos durante o processo trainee do CIS. Nele, construo e aprimoro modelos de Inteligência Artificial, aplicando técnicas de machine learning e deep learning em diversos cenários e conjuntos de dados. O foco está no desenvolvimento de soluções práticas e na exploração de diferentes abordagens para resolver problemas reais.
